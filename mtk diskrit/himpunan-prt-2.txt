@@ -1,0 +1,54 @@
+### Hukum-hukum himpunan
+- disebut juga sifat-sifat (properties) himpunan
+- disebut juga hukum aljabar himpunan
+
+1. Hukum identitas:
+	- A ∪ ∅ = A
+	- A ∩ U = A
+
+2. Hukum Komplemen:
+	- A ∪ Ᾱ = U
+	- A ∩ Ᾱ = ∅
+
+3. Hukum null/dominasi:
+	- A ∩ ∅ = ∅
+	- A ∪ U = U
+
+4. Hukum indempoten:
+	- A ∪ A = A
+	- A ∩ A = A
+
+**Lanjut di buku binderr
+
+
+### Prinsip dualitas
+Prinsif dualitas adalah dua konsep yang berbeda dapat saling dipertukarkan namun tetap memberikan jawaban yang benar
+
+
+### Prinsip Inklusi-Eksklusi
+- Untuk dua himpunan A dan B:
+ 1. |A ∪ B| = |A| + |B| - |A ∩ B|
+ 2. |A ⊕ B| = |A| + |B| - 2|A ∩ B|
+
+
+COntoh:
+Berapa banyak bilangan bulat antara 1 dan 100 yang habis dibagi 3 atau 5.
+ A = himpunan bilangan bulat yg hbis dibagi 3
+ B = himpunan bilangan bulat yg hbis dibagi 5
+ |A ∩ B| = himpunan bilangan bulat yg habis di bagi 3 dan 5 (yaitu himpunan bilangan bulat yang habis di bagi kpk dari 3 dan 5, yaitu 15)
+
+ |A| = 100 / 3 = 33
+ |B| = 100 / 5 = 20
+ |A ∩ B| = 100 / 15 = 6
+ |A ∪ B| = 33 + 20 - 6 = 47
+
+- Untuk tiga himpunan A,B,C, berlaku
+ |A ∪ B ∪ B| = || + || + || - |A ∩ B| - |A ∩ C| - |B ∩ C| + |A ∩ B ∩|
+
+
+
+
+
+
+∩ ∪ ∅ ⊂ ⊆ ∈ Ᾱ ˉ
+ 
