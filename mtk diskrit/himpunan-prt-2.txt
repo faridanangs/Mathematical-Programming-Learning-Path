@@ -33,22 +33,41 @@ Prinsif dualitas adalah dua konsep yang berbeda dapat saling dipertukarkan namun
 
 COntoh:
 Berapa banyak bilangan bulat antara 1 dan 100 yang habis dibagi 3 atau 5.
- A = himpunan bilangan bulat yg hbis dibagi 3
- B = himpunan bilangan bulat yg hbis dibagi 5
- |A ∩ B| = himpunan bilangan bulat yg habis di bagi 3 dan 5 (yaitu himpunan bilangan bulat yang habis di bagi kpk dari 3 dan 5, yaitu 15)
+A = himpunan bilangan bulat yg hbis dibagi 3
+B = himpunan bilangan bulat yg hbis dibagi 5
+|A ∩ B| = himpunan bilangan bulat yg habis di bagi 3 dan 5 (yaitu himpunan bilangan bulat yang habis di bagi kpk dari 3 dan 5, yaitu 15)
 
- |A| = 100 / 3 = 33
- |B| = 100 / 5 = 20
- |A ∩ B| = 100 / 15 = 6
- |A ∪ B| = 33 + 20 - 6 = 47
+|A| = 100 / 3 = 33
+|B| = 100 / 5 = 20
+|A ∩ B| = 100 / 15 = 6
+|A ∪ B| = 33 + 20 - 6 = 47
 
 - Untuk tiga himpunan A,B,C, berlaku
  |A ∪ B ∪ B| = || + || + || - |A ∩ B| - |A ∩ C| - |B ∩ C| + |A ∩ B ∩|
 
+Contoh: di antara bilangan bulat antara 101 - 600 (termasuk 101 dan 600 itu sendiri), berapa banyak bilangan yang tidak habis dibagi oleh 4 atau 5 namun tidak keduanya
+ 
+|U| = 600 - 100 = 500
+|A| = 500/4 = 125
+|B| = 500/5 = 100
+|A ∩ B| = 500/20 = 25
+|A ⊕ B| = 125 + 100 - 50 = 175
+|A^- ⊕ B^-| = U - |A ⊕ B| = 500 - 175 = 325
+
+
+### Contoh Pembuktian
+Misalkan himpunan A dan B, Buktikan bahwa A ∪ (B - A) = A ∪ B
+A ∪ (B - A) = A ∪ (B ∩ Ᾱ) *oprasi selisih
+	=  (A ∪ B) ∩ (A ∪ Ᾱ)  *hukum distributif
+	= (A ∪ B) ∩ U  *hukum komplemen
+	= (A ∪ B)  *hukum identitas
 
 
 
 
 
-∩ ∪ ∅ ⊂ ⊆ ∈ Ᾱ ˉ
+
+
+
+∩ ∪ ∅ ⊂ ⊆ ∈ Ᾱ ⊕
  
