@@ -49,7 +49,7 @@ Contoh:
 - P = himpunan bilangan bulat positif = {1,2,3,..}
 - N = himpunan bilangan alami (natural) = {1,2,..}
 - Z = himpunan bilangan bulat = {..,-2,-1,0,1,2,..}
-- Q = himpunan bilangan rasional = {a/b | a,b ∈ Z dan b != 0} = {...,-3/4,-4/5,2/3,1/2,...} = {...,-0.6,-0.8,0.666...}
+- Q = himpunan bilangan rasional = {a/b | a.b ∈ Z dan b != 0} = {...,-3/4,-4/5,2/3,1/2,...} = {...,-0.6,-0.8,0.666...}
 - R = himpunan bilangan rill = {..., 7.8, -0.001, 0.4,..}
 - C = himpunan bilangan kompleks = {a + bi | a, b ∈ R}
 
@@ -224,6 +224,10 @@ Penyelesaian:
      A * B * C = {(1,a,Y), (1,a,Z), (1,b,Y), (1,b,Z), (2,a,Y), (2,a,Z), (2,b,Y), (2,b,Z)}
 
 	
+
+A = {apel, advan}
+B = {samsung, advan, somi}
+C = {lg, samsung, huwawe}
 
 
 

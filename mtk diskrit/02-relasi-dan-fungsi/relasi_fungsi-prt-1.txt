@@ -1,0 +1,14 @@
+### Matriks
+
+Matriks: sususan skalar elemen-elemen dalam bentuk baris dan kolom
+- Matriks berukuran: m baris x n kolom.
+- elemen matriks A: [aij] -> elemen pada baris ke-i dan kolom ke-j
+
+1. Beberapa jenis matriks khusus:
+- Matriks sangkar: ukurannya n x n
+- Matriks simetri: aij = aji untuk setiap i dan j
+- Matriks Biner (0/1): setiap elemennya hanya bernilai 0 atau 1.
+- Matriks Transpose: Tukar baris dan kolom A = [aij], A^T = [bij], bij = aji
+- Matriks diagonal: matriks matriks berbujur sangkar dengan aij = 0 untuk i != j
+- Matriks Identitas: matriks diagonal dengan semua elemen diagonal = 1
+- Matriks Segitiga Bawah atau Atas: aij = 0 jika i < j (Bawah) atau aij = 0 jika j < i (Atas)
